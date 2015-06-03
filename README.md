@@ -1,6 +1,9 @@
-hello-git
-=========
+Lab4b_ModernArtUI
+=================
 
-all purpose github test repository
+This repository contains screencasts to be downloaded in context of the coursera course "Programming Mobile Applications for Android Handheld Systems: Part 1"
 
-(tested)
+
+Lab 4b:
+Lab4b_ModernArtUI.mov
+
